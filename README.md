@@ -44,7 +44,7 @@ Here are the screenshots captured during the configuration and verification phas
 
 ### 1. VirtualBox NAT Network Configuration
 *Creation of the isolated virtual switch (`NatNetwork`) operating on the `10.0.0.0/24` subnet with DHCP enabled for internal routing.*
-> ![NAT Network Setup](2-screenshot-network-settings-1.png)
+> ![NAT Network Setup](2-screenshot-network-settings.png)
 
 ### 2. Kali Linux Network Adapter Binding
 *Configuring the Kali Linux virtual machine to interface directly with the custom `NatNetwork` via an Intel PRO/1000 MT virtual network adapter.*
