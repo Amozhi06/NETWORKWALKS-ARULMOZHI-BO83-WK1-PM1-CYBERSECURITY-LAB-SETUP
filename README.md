@@ -13,7 +13,7 @@
 
 ---
 
-## 🧭 Executive Summary
+##  Summary
 
 Welcome to my **Week 1 Cybersecurity Lab Setup** repository! In cybersecurity, safety and isolation are everything. Before running reconnaissance tools, capturing packets, or testing exploits, you need a controlled environment that protects your primary host machine while allowing seamless communication between virtual targets. 
 
@@ -21,7 +21,7 @@ This repository documents my end-to-end setup of a foundational cyber lab enviro
 
 ---
 
-## 🏗️ Lab Architecture & System Specifications
+## Lab Architecture & System Specifications
 
 The lab runs on a high-performance Windows rig and is virtualized using Oracle VirtualBox, utilizing a custom private virtual switch (`NAT Network`) to simulate a segmented network environment.
 
@@ -38,7 +38,7 @@ The lab runs on a high-performance Windows rig and is virtualized using Oracle V
 
 ---
 
-## 📸 Lab Visual Evidence & Walkthrough
+## Lab Visual Evidence & Walkthrough
 
 Here are the screenshots captured during the configuration and verification phases:
 
@@ -56,7 +56,7 @@ Here are the screenshots captured during the configuration and verification phas
 
 ---
 
-## 🪜 Step-by-Step Implementation Guide
+## Step-by-Step Implementation Guide
 
 ### Step 1: Hypervisor & Storage Optimization
 Installed Oracle VM VirtualBox. To avoid performance bottlenecks and storage constraints on the host C: drive, all virtual machine disks (`.vdi`) and default machine directories were relocated to high-capacity partitions on the D: drive.
@@ -77,7 +77,7 @@ Installed Oracle VM VirtualBox. To avoid performance bottlenecks and storage con
 
 ---
 
-## 🔎 Connectivity & Health Verification
+## Connectivity & Health Verification
 
 To ensure the environment was fully operational, multiple diagnostic checks were performed:
 
@@ -90,7 +90,7 @@ To ensure the environment was fully operational, multiple diagnostic checks were
 
 ---
 
-## 🐞 Troubleshooting & Challenges Faced
+## Troubleshooting & Challenges Faced
 
 * **Issue 1: NetworkManager DAD (Duplicate Address Detection) Timeout**
   * *Symptom:* Static IP assignment occasionally caused interface hanging or delayed connection activation on Linux.
@@ -104,7 +104,7 @@ To ensure the environment was fully operational, multiple diagnostic checks were
 
 ---
 
-## 💡 Key Takeaways & Lessons Learned
+## Key Takeaways & Lessons Learned
 
 1. **Network Segmentation:** Gained practical clarity on how custom NAT networks create safe, multi-node lab environments without risking host system exposure.
 2. **Static Addressing:** Understood how manual IPv4 configuration, subnets, and default gateways interact within Linux network stacks.
@@ -112,13 +112,13 @@ To ensure the environment was fully operational, multiple diagnostic checks were
 
 ---
 
-## 🔐 Ethical Use & Safety Disclaimer
+## Ethical Use & Safety Disclaimer
 
 *This laboratory environment is constructed strictly for educational purposes, authorized security training, and defensive skill development. Never run penetration testing tools or exploit scripts against systems or networks for which you do not possess explicit, written legal authorization.*
 
 ---
 
-## 👤 Author & Acknowledgments
+## Author & Acknowledgments
 
 * **Arulmozhi Muniraj**
 * **Program:** Networkwalks Cybersecurity Program (Batch B082)
