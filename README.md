@@ -27,14 +27,14 @@ The lab runs on a high-performance Windows rig and is virtualized using Oracle V
 
 | Component | Configuration Details |
 | :--- | :--- |
-| **Host OS** | Windows 11 (Optimized on high-speed D: Drive storage) |
+| **Host OS** | Windows 11 |
 | **Processor** | 13th Gen Intel Core i7-13620H |
 | **Hypervisor** | Oracle VM VirtualBox 7.2 |
-| **Security Workstation** | Kali Linux (Latest Release) |
+| **Security Workstation** | Kali Linux  |
 | **Virtual Switch** | NAT Network (`10.0.0.0/24`) |
-| **Kali Static IP** | `10.0.0.2` (Subnet Mask: `255.255.255.0`) |
+| **Kali Static IP** | `10.0.0.2` |
 | **Default Gateway** | `10.0.0.1` |
-| **DNS Server** | `8.8.8.8` (Google Public DNS) |
+| **DNS Server** | `8.8.8.8` |
 
 ---
 
