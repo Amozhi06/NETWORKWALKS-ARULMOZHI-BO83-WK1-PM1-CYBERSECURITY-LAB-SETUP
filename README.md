@@ -17,7 +17,7 @@
 
 Welcome to my **Week 1 Cybersecurity Lab Setup** repository! In cybersecurity, safety and isolation are everything. Before running reconnaissance tools, capturing packets, or testing exploits, you need a controlled environment that protects your primary host machine while allowing seamless communication between virtual targets. 
 
-This repository documents my end-to-end setup of a foundational home lab environment, built as part of the Networkwalks program (Batch B082).
+This repository documents my end-to-end setup of a foundational cyber lab environment, built as part of the Networkwalks program (Batch B082).
 
 ---
 
