@@ -1,4 +1,4 @@
-# 🛡️ NETWORKWALKS-B082-WK1-PM1-CYBERSECURITY-LAB-SETUP
+# 🛡️ NETWORKWALKS-B083-WK1-PM1-CYBERSECURITY-LAB-SETUP
 
 <p align="center">
   <b>A secure, isolated virtual laboratory built from scratch for ethical hacking, network analysis, and security auditing.</b>
