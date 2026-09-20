@@ -20,7 +20,7 @@ Welcome to my **Week 1 Cybersecurity Lab Setup** repository. In cybersecurity, s
 This repository documents my end-to-end setup of a foundational cyber lab environment, built as part of the Networkwalks program (Batch B083).
 
 ### Video Walkthrough
->[Watch Week Video Demonstration](networkwalks_week1.mp4)
+>[Watch Week Video Demonstration](networkwalks-week1.mp4)
 
 ---
 
